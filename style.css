@@ -26,6 +26,10 @@ h1{
 
 }
 
+#generateBtn{
+    cursor:pointer;
+}
+
 #otp{
     font-size: 1.2em;
     background-color: orange;
