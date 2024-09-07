@@ -27,8 +27,9 @@ h1{
 }
 
 #generateBtn{
-    cursor:pointer;
+    cursor: pointer;
 }
+
 
 #otp{
     font-size: 1.2em;
